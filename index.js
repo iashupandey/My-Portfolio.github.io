@@ -132,4 +132,5 @@ gsap.from(".icons span", {
   delay: 2.5,
   x: -30,
   stagger: 0.2,
-});
+}
+         );
